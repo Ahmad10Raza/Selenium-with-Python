@@ -192,3 +192,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+chromedriver-linux64.zip
+chromedriver-linux64/LICENSE.chromedriver
+chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver
+LICENSE.chromedriver
