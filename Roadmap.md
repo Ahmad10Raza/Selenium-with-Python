@@ -1,4 +1,3 @@
-
 ## 🛣️ Selenium with Python — **Complete Roadmap**
 
 **🎯 Focus: Web Automation + Browser-based Task Automation**
@@ -46,33 +45,9 @@
 
 ---
 
-### ✅ **Phase 3: Advanced Web Interactions**
+### ✅ **Phase 3:** Data-Driven Automation
 
-**Goal: Automate dynamic and interactive web pages**
-
-#### 📑 Handling:
-
-* Alerts → `driver.switch_to.alert.accept()`
-* Frames → `driver.switch_to.frame()`
-* Multiple Windows → `driver.window_handles`, `switch_to.window()`
-
-#### 🧲 ActionChains
-
-* Mouse Hover
-* Drag and Drop
-* Right Click / Double Click
-* Keyboard Simulation
-
-#### 🔄 Scrolling & JavaScript
-
-* Execute JS: `driver.execute_script()`
-* Scroll to element, top, bottom
-
----
-
-### ✅ **Phase 4: Data-Driven Automation**
-
-**Goal: Perform actions with external data (Excel, CSV, JSON)**
+* [ ] Goal: Perform actions with external data (Excel, CSV, JSON)
 
 * Use `openpyxl` or `pandas` for Excel
 * Use `csv` for CSV input
@@ -85,7 +60,7 @@
 
 ---
 
-### ✅ **Phase 5: Automation Use Cases (Beyond Testing)**
+### ✅ **Phase 4: Automation Use Cases (Beyond Testing)**
 
 **🎯 Main Focus: Real-world Browser Task Automation**
 
@@ -103,7 +78,7 @@
 
 ---
 
-### ✅ **Phase 6: Browser Automation Projects**
+### ✅ **Phase 5: Browser Automation Projects**
 
 Build real projects for hands-on experience:
 
@@ -116,7 +91,7 @@ Build real projects for hands-on experience:
 
 ---
 
-### ✅ **Phase 7: Building a Modular Automation Framework**
+### ✅ **Phase 6: Building a Modular Automation Framework**
 
 **Goal: Make reusable, clean automation scripts**
 
@@ -137,7 +112,7 @@ Build real projects for hands-on experience:
 
 ---
 
-### ✅ **Phase 8: Run Scripts at Scale**
+### ✅ **Phase 7: Run Scripts at Scale**
 
 **Goal: Make your scripts production-ready**
 
@@ -149,7 +124,7 @@ Build real projects for hands-on experience:
 
 ---
 
-### ✅ **Phase 9: Reporting & CI/CD Integration**
+### ✅ **Phase 8: Reporting & CI/CD Integration**
 
 * HTML Reports using `pytest-html`
 * Allure Reports for advanced visualizations
@@ -158,7 +133,7 @@ Build real projects for hands-on experience:
 
 ---
 
-### ✅ **Phase 10: Beyond Selenium**
+### ✅ **Phase 9: Beyond Selenium**
 
 | Tool                                       | Use Case                                            |
 | ------------------------------------------ | --------------------------------------------------- |
